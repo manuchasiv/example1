@@ -1,0 +1,9 @@
+git install
+git clone path using the github
+git config --gloabl user.email "chasiv21@gamil.com"
+git config --gloabl user.name "chasiv"
+git status
+git add .
+git commit -m ""
+git remot --v
+git  push origin file name 
